@@ -1,0 +1,23 @@
+.slider-active .owl-nav div{
+	background: #fff none repeat scroll 0 0 ;
+	font-size: 20px;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	left: 20px;
+	transform: translateY(-50%);
+}
+.slider-active .owl-nav div.owl-next{
+	left: auto;
+	right: 40px;
+}
+.slider-active .owl-dots{
+	bottom: 15px;
+	left: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+}
